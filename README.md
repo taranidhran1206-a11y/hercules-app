@@ -1,6 +1,5 @@
-# ⚡ Hercules — Discipline Companion
+# ⚡ H-clk — No excuses. Only execution.
 
-No excuses. Only execution.
 
 Focus timer, daily labors, site blocker, strict alarms — enforced by Hercules, Zeus, Poseidon, Baki, and Yujiro.
 
